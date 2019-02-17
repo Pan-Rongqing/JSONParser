@@ -1,2 +1,2 @@
 # JSONParser
-JSON文件的解析及数据库存储
+利用FastJson解析JSON文件并进行数据库存储
